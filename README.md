@@ -216,3 +216,6 @@ jupyter notebook
 - Integrate Real-Time Crypto API
 - Build Interactive Dashboard
 - Add Technical Indicators
+
+## STREAMLIT APP LINK
+https://crypto-marketing-35frqvmvknbw8bxf5rycwu.streamlit.app/
